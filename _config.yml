@@ -200,7 +200,7 @@ font:
   codes: //fonts.googleapis.com
     external: true
     family: Noto+Sans+KR
-    size:
+    size: 13px
 
 
 
