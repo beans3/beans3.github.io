@@ -141,10 +141,10 @@ $table-row-hover-bg-color       : $whitesmoke;
 
 // Code & Code Blocks
 // --------------------------------------------------
-$code-font-family               : 'Noto Sans KR', sans-serif;
+$code-font-family               : $font-family-base;
 $code-font-size                 : 13px;
 $code-font-size                 : if(type-of(jekyll-config('font.codes.size')) == 'number', jekyll-config('font.codes.size') + px, $code-font-size);
-$code-border-radius             : 3px;
+$code-border-radius             : 0px;
 $code-foreground                : $black-light;
 $code-background                : $gainsboro;
 
