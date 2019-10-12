@@ -197,9 +197,9 @@ font:
     size:
 
   # Font settings for <code> and code blocks.
-  codes: https://fonts.googleapis.com
+  codes: //fonts.googleapis.com
     external: true
-    family: 'Noto+Sans+KR'
+    family: Noto+Sans+KR
     size:
 
 
