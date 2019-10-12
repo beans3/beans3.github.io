@@ -171,7 +171,7 @@ font:
   host: //fonts.googleapis.com
 
   # Global font settings used on <body> element.
-  global: //fonts.googleapis.com
+  global: 
     # external: true will load this font family from host.
     external: true
     family: Noto+Sans+KR
@@ -197,10 +197,10 @@ font:
     size:
 
   # Font settings for <code> and code blocks.
-  codes: //fonts.googleapis.com
+  codes: 
     external: true
     family: Noto+Sans+KR
-    size: 13px
+    size: 
 
 
 
