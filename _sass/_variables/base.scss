@@ -77,7 +77,7 @@ $font-family-posts        : $font-family-base;
 $font-family-posts        : if(get_font_family('posts'), (get_font_family('posts'), 'Noto Sans KR', sans-serif), $font-family-posts);
 
 $font-family-monospace    : consolas, Menlo, $font-family-chinese, monospace;
-$font-family-monospace    : if(get_font_family('codes'), (get_font_family('codes'), consolas, Menlo, $font-family-chinese, monospace), $font-family-monospace);
+$font-family-monospace    : if(get_font_family('codes'), (get_font_family('codes'), consolas, Menlo, 'Noto Sans KR', sans-serif), $font-family-monospace);
 
 $font-family-icons        : 'FontAwesome';
 
