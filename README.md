@@ -1,4 +1,2 @@
-# beans3.github.io
-리액트 배포 실습
-- 이걸 어떻게 관리하지?
-- npm run build 한 내용인데 어떻게 관리하는거지 도대체?
+# 리액트 공부해보기
+기존에 week2 blog 소스 관리용으로 사용하던 repository 내용을 main 브랜치에 가져와서 관리하고 build 소스 안에 있는 내용은 gh-pages 다운로드 후 npm run deploy로 관리하기로 함
